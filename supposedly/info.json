@@ -1,9 +1,21 @@
 {
-    "AUTHOR" : "SinisterPyro",
-    "SHORT" : "Supposedly...",
-    "DESCRIPTION" : "Randomly responds to user mesages with "*Supposedly...*" (1 in 300 Chnace)",
-    "HIDDEN" : false,
-    "NAME" : "Supposedly",
-    "TAGS" : ["Supposedly", "random", "trigger"],
-    "INSTALL_MSG" : "Supposedly cog now installed, no other steps required."
+  "author": [
+    "Miss Moth"
+  ],
+  "bot_version": [
+    3,
+    0,
+    0
+  ],
+  "description": "Randomly responds to user mesages with your advert (1 in 300 Chnace)",
+  "hidden": false,
+  "install_msg": "Woo!",
+  "requirements": [],
+  "short": "Advertize",
+  "tags": [
+    "MissMoth",
+    "trigger",
+    "tools",
+    "advert"
+  ]
 }
