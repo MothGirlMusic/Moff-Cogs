@@ -11,5 +11,5 @@ Since repo now is installed you can go ahead and install different cogs with com
 
 Example of cog installation:
 ```
-*cog install Moff-Cogs hug
+!cog install Moff-Cogs hug
 ```
