@@ -1,21 +1,12 @@
 {
-  "author": [
-    "Miss Moth"
-  ],
-  "bot_version": [
-    3,
-    0,
-    0
-  ],
-  "description": "Randomly responds to user mesages with your advert (1 in 300 Chnace)",
-  "hidden": false,
-  "install_msg": "Woo!",
-  "requirements": [],
-  "short": "Advertize",
-  "tags": [
-    "MissMoth",
-    "trigger",
-    "tools",
-    "advert"
-  ]
+	"author": "Miss Moth",
+	"description": "Randomly responds to user mesages with your advert (1 in 300 Chnace)",
+    "install_msg": "Thanks for installing, have fun.",
+	"short": "Advertize",
+	"tags": [
+		"trigger",
+        "tools",
+        "advert"
+	],
+	"type": "COG"
 }
